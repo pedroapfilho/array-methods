@@ -1,1 +1,1 @@
-# Just a reminder on how to use High Order Functions
+# High Order Functions
