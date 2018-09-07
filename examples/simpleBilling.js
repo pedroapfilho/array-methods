@@ -14,6 +14,6 @@ let totalBill = 0;
 
 const billingForMale = persons
   .filter(person => person.gender === "male")
-  .forEach(() => (totalBill += 100));
+  .map(() => (totalBill += 100));
 
 console.log(totalBill);
