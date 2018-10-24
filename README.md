@@ -5,8 +5,8 @@ Just a table of high order functions for reference
 | Function   | What it does?                                                                                        | Code                  |
 | ---------- | ---------------------------------------------------------------------------------------------------- | --------------------- |
 | .filter()  | filter receives true/false and only puts the true ones on the array                                  | [filter.js][filter]   |
-| .find()    | it finds the first one that returns true and return all the array                                    | [find.js][find]       |
-| .forEach() | forEach runs on each object on the array and do something with it, it doesn't return anything at all | [forEach.js][foreach] |
+| .find()    | it finds the first one that returns true and returns all the array                                    | [find.js][find]       |
+| .forEach() | forEach runs on each object on the array and does something with it, it doesn't return anything at all | [forEach.js][foreach] |
 | .map()     | map runs on each object on the array and returns something from it                                   | [map.js][map]         |
 | .reduce()  | reduce will take an accumulator first and secondly the value to accumulate                           | [reduce.js][reduce]   |
 | .sort()    | It sorts the array depending on the arguments                                                        | [sort.js][sort]       |
