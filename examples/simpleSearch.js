@@ -9,7 +9,7 @@ const persons = [
   { name: "Gabrielle", gender: "female", address: "Jardim Ângela" }
 ];
 
-//What if I want just females from Jardim Ângela and I typed: "Ga" on the search..
+// What if I want just females from Jardim Ângela and I typed: "Ga" on the search..
 
 const wantedPersons = persons
   .filter(person => person.gender.toLowerCase() === "female")

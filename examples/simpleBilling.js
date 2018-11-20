@@ -8,7 +8,8 @@ const persons = [
   { name: "Jack", gender: "male" }
 ];
 
-//What if you want to have different billing for males and females and you want to know how much males can give you
+// What if you want to have different billing for males
+// and females and you want to know how much males can give you
 
 let totalBill = 0;
 
