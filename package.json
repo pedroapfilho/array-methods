@@ -1,8 +1,8 @@
 {
-  "name": "high-order-functions",
+  "name": "array-methods",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/pedroapfilho/high-order-functions.git",
+  "repository": "https://github.com/pedroapfilho/array-methods.git",
   "author": "Pedro Filho <pedro@filho.me>",
   "license": "MIT",
   "scripts": {
