@@ -1,4 +1,4 @@
-# High Order Functions
+# Array Methods
 
 Just a table of high order functions for reference
 
