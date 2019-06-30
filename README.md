@@ -1,8 +1,8 @@
 # Array Methods
 
-Just a table of high order functions for reference
+A table of array methods for reference
 
-| Function   | What it does?                                                                                          | Code                  |
+| Method     | What it does?                                                                                          | Code                  |
 | ---------- | ------------------------------------------------------------------------------------------------------ | --------------------- |
 | .filter()  | filter receives true/false and only puts the true ones on the array                                    | [filter.js][filter]   |
 | .find()    | it finds the first one that returns true and returns all the array                                     | [find.js][find]       |
@@ -13,7 +13,7 @@ Just a table of high order functions for reference
 
 Here are some examples
 
-| Function       | What it does?                                          | Code                              |
+| Method.        | What it does?                                          | Code                              |
 | -------------- | ------------------------------------------------------ | --------------------------------- |
 | Simple Search  | What if you want to search for more than one argument? | [simpleSearch.js][simplesearch]   |
 | Simple Billing | What if you want to know how much is the billing?      | [simpleBilling.js][simplebilling] |
